@@ -1,7 +1,7 @@
 import React from 'react'
 import bed from '../assets/bed.png'
 import book from '../assets/book.png'
- import port from '../assets/port.png'
+ import next from '../assets/next.png'
 
 
 
@@ -17,7 +17,7 @@ function Portfolio() {
         <div className="worksImgs">
           <img src={bed} alt="" className="worksImg" /> 
           <img src={book} alt="" className="worksImg" />
-          < img src={port} alt="" className="worksImg" />
+          < img src={next} alt="" className="worksImg" />
        
         </div>
         
